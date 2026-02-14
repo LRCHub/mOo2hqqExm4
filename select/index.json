@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泡の花火",
+  "base_artist": "NoisyCell",
+  "createdAt": "2026-02-14T18:30:48.522988Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泡の花火",
+      "artist": "NoisyCell",
+      "has_synced": false,
+      "path": "select/pl_01_泡の花火_NoisyCell.txt"
+    }
+  ]
+}
